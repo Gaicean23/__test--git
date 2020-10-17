@@ -1,14 +1,14 @@
 # GIT CLASS WORK
 
 ## BASIC COMMSNDS :
-- git init
-- git status
-- git add .
-- git commit
+* git init
+* git status
+* git add .
+* git commit
+* git branch
+* git checkout 
 
-- git branch
-- git checkout 
 ## ADVANCED COMMANDS :
-- git restore
-- git rm
-- clear
+* git restore
+* git rm
+* clear
